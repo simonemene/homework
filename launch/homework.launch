@@ -1,0 +1,6 @@
+<launch>
+    <node name="talker" pkg="homework" type="node1"  required = "true" />
+    <node name="talker1" pkg="homework" type="node2" output = "screen" />
+    <node name="listener" pkg="homework" type="node3" output = "screen" />
+</launch>
+
