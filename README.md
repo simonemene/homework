@@ -6,7 +6,7 @@ GNU Lesser General Public License (Lesser GPL)
 A.Y. 2017/2018<br>
 University of Verona (Italy)
 
-![laboratorio ciberfisico](image/images.png)
+![image](image/images.png)
 
 The file in homework contain the ROS based implementation in order to print name,age,degree course or the whole string.
 
