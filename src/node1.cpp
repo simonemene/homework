@@ -44,7 +44,7 @@ int main(int argc, char **argv) {
 		nodo.publish(msg);
 
 		loop_rate.sleep();
-		ros::spinOnce();
+		
 
 		ros::spinOnce();
 		
