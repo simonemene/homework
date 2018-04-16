@@ -6,7 +6,7 @@ GNU Lesser General Public License (Lesser GPL)
 A.Y. 2017/2018<br>
 University of Verona (Italy)
 
-![homework](https://raw.githubusercontent.com/simonemene/homework/image.png)
+![homework](https://github.com/simonemene/homework/blob/master/image.png)
 
 The file in homework contain the ROS based implementation in order to print name,age,degree course or the whole string.
 
